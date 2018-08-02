@@ -1,0 +1,33 @@
+html, body{
+	height: 100%;
+
+}
+html{
+	display: table;
+	margin:auto;
+}
+body{
+	vertical-align: middle;
+}
+#game{
+	
+	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}	
+tr, th{
+	border-color: black;
+	border-radius: 3px;
+	border: 1px solid;
+	width: 30px;
+	height: 30px;
+}
+img{
+	height: 30px;
+	width: 30px;
+}
+th:hover{
+	content: url(X.png);
+}
